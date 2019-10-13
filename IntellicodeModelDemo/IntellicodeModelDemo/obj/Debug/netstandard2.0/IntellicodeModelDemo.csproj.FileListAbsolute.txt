@@ -1,0 +1,8 @@
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\bin\Debug\netstandard2.0\IntellicodeModelDemo.deps.json
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\bin\Debug\netstandard2.0\IntellicodeModelDemo.dll
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\bin\Debug\netstandard2.0\IntellicodeModelDemo.pdb
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\obj\Debug\netstandard2.0\IntellicodeModelDemo.csprojAssemblyReference.cache
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\obj\Debug\netstandard2.0\IntellicodeModelDemo.AssemblyInfoInputs.cache
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\obj\Debug\netstandard2.0\IntellicodeModelDemo.AssemblyInfo.cs
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\obj\Debug\netstandard2.0\IntellicodeModelDemo.dll
+C:\Users\kehavens\source\repos\IntellicodeModelDemo\IntellicodeModelDemo\obj\Debug\netstandard2.0\IntellicodeModelDemo.pdb
